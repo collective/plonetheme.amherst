@@ -1,9 +1,26 @@
 <configure
     xmlns:plone="http://namespaces.plone.org/plone"
     xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
     xmlns="http://namespaces.zope.org/zope">
 
     <plone:static
         directory="theme/amherst" type="theme" />
+
+    <genericsetup:registerProfile
+        name="default"
+        title="plonetheme.amherst"
+        directory="profiles/default"
+        description="Installs the plonetheme.amherst package"
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
+
+    <genericsetup:registerProfile
+        name="uninstall"
+        title="plonetheme.amherst: Uninstall profile for Plone 4 Diazo Theme"
+        directory="profiles/uninstall"
+        description="Installs the plonetheme.amherst package"
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
 
 </configure>
