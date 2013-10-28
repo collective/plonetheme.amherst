@@ -2,9 +2,9 @@
 Introduction
 ============
 
-The ``plonetheme.healthlens`` package uses the **theming** and **packaging** features
-available in `plone.app.theming`_ to make the theme `Healthlens`_ easily
-available in `Plone 4.1`_.
+The ``plonetheme.amherst`` package uses the **theming** and **packaging** features
+available in `plone.app.theming`_ to make this theme easily
+available in `Plone 4.1`_ or higher.
 
 Installation
 ------------
@@ -21,13 +21,13 @@ Buildout
 
 If you are a developer, you might enjoy installation via buildout.
 
-Add ``plonetheme.healthlens`` to your ``plone.recipe.zope2instance`` section's *eggs* parameter e.g.::
+Add ``plonetheme.amherst`` to your ``plone.recipe.zope2instance`` section's *eggs* parameter e.g.::
 
     [instance]
     eggs =
         Plone
         …
-        plonetheme.healthlens
+        plonetheme.amherst
 
 Select theme
 ~~~~~~~~~~~~
