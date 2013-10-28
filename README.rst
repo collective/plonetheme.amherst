@@ -6,6 +6,11 @@ The ``plonetheme.amherst`` package uses the **theming** and **packaging** featur
 available in `plone.app.theming`_ to make this theme easily
 available in `Plone 4.1`_ or higher.
 
+.. image:: https://raw.github.com/collective/plonetheme.amherst/master/plonetheme/amherst/theme/amherst/preview.png
+  :width: 1024px
+  :alt: plonetheme.amherst preview
+  :align: center
+
 Installation
 ------------
 
