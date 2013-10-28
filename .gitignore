@@ -1,6 +1,33 @@
+*~
 *.pyc
 .DS_Store?
+*.pyo
+*.tmp*
+*.mo
+*.egg
+*.EGG
 *.egg-info
+*.EGG-INFO
+*.kpf
+*.swp
+*.wpr
+.*.cfg
+.installed.cfg
+.mr.developer.cfg
+.hg/
+.bzr/
+.svn/
+.project
+.pydevproject
+bin/
+build/
+develop-eggs/
+downloads/
+eggs/
+fake-eggs/
+parts/
+dist/
+var/
 
 plonetheme/amherst/theme/amherst/.DS_Store
 
@@ -10,4 +37,5 @@ plonetheme/amherst/theme/.DS_Store
 
 plonetheme/.DS_Store
 
+# OSX
 .DS_Store
