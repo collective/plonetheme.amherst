@@ -1,4 +1,18 @@
-
 Changelog
 =========
 
+0.1.1 (unreleased)
+------------------
+
+- Added more strings classifiers items for this packages [macagua]
+
+- Added genericsetup profiles for install and uninstall for this package [macagua]
+
+- Added manifest file for diazo theme and preview file [macagua]
+
+- Update information about this package [macagua]
+
+1.0 (2011-05-30)
+----------------
+
+- Initial release [a-pasquale]
