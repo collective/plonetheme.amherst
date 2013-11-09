@@ -4,6 +4,8 @@ Changelog
 0.1.1 (unreleased)
 ------------------
 
+- Added Diazo theme zip file [macagua]
+
 - Added more strings classifiers items for this packages [macagua]
 
 - Added genericsetup profiles for install and uninstall for this package [macagua]
