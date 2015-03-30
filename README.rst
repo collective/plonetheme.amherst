@@ -12,7 +12,7 @@ Installation
 Add Plone site
 ~~~~~~~~~~~~~~
 
-Install Plone 4.1 with `plone.app.theming`_ and create a Plone site (if you have not already)
+Install Plone 4.x with `plone.app.theming`_ and create a Plone site (if you have not already)
 with Diazo theming configured.
 
 .. image:: https://github.com/collective/plonetheme.amherst/raw/master/screenshot0.png
