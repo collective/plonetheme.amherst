@@ -30,7 +30,7 @@ setup(
         'Topic :: Internet',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    keywords='web zope plone theme diazo',
+    keywords='web zope plone theme diazo amherst cms',
     packages=find_packages(),
     include_package_data=True,
     namespace_packages=[
