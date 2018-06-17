@@ -11,7 +11,7 @@ setup(
     author='Andrew Pasquale',
     author_email='apasquale@healthlens.org',
     url='https://github.com/a-pasquale/plonetheme.amherst',
-    # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
+    # Get more strings from https://pypi.org/pypi?:action=list_classifiers
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Web Environment',
