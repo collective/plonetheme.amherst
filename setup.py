@@ -5,7 +5,7 @@ import os
 setup(
     name='plonetheme.amherst',
     version='0.1.1',
-    description='An installable Diazo theme for Plone 4.1 or higher',
+    description='Amherst Theme, is an installable Diazo theme for Plone 4',
     long_description=open("README.rst", "rb").read() +
         open(os.path.join("docs", "HISTORY.txt"), "rb").read(),
     author='Andrew Pasquale',
