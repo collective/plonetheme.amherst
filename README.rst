@@ -1,3 +1,6 @@
+==================
+plonetheme.amherst
+==================
 
 Introduction
 ============
@@ -78,4 +81,3 @@ Obviously there is more work to be done. If you want to help, pull requests acce
 
 .. _`plone.app.theming`: http://pypi.python.org/pypi/plone.app.theming
 .. _`Plone 4.1`: http://pypi.python.org/pypi/Plone/4.1rc2
-
