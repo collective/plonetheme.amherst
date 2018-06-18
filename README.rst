@@ -61,14 +61,14 @@ Buildout
 
 If you are a developer, you might enjoy installing it via buildout.
 
-For install ``plonetheme.aclark_twitter`` package add it to your ``buildout`` section's 
+For install ``plonetheme.amherst`` package add it to your ``buildout`` section's 
 *eggs* parameter e.g.: ::
 
    [buildout]
     ...
     eggs =
         ...
-        plonetheme.aclark_twitter
+        plonetheme.amherst
 
 
 and then running ``bin/buildout``.
@@ -77,7 +77,7 @@ Or, you can add it as a dependency on your own product ``setup.py`` file: ::
 
     install_requires=[
         ...
-        'plonetheme.aclark_twitter',
+        'plonetheme.amherst',
     ],
 
 
