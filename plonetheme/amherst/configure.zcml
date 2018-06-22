@@ -17,7 +17,7 @@
 
     <genericsetup:registerProfile
         name="uninstall"
-        title="plonetheme.amherst: Uninstall profile for Plone 4 Diazo Theme"
+        title="plonetheme.amherst Uninstall"
         directory="profiles/uninstall"
         description="Installs the plonetheme.amherst package"
         provides="Products.GenericSetup.interfaces.EXTENSION"
