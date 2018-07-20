@@ -4,6 +4,8 @@ Changelog
 0.1.1 (unreleased)
 ------------------
 
+- Added i18n directive for the package ZCML file [macagua]
+
 - Updated manifest file for diazo theme [macagua]
 
 - Changed the description for setuptools metadata classifier [macagua]
